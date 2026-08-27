@@ -56,4 +56,4 @@ print(rakam2==rakam3)
 
 i=1
 i -= 2 
-print(i) 
+print(i)
