@@ -5,7 +5,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge" alt="Status" />
   </p>
 
   <p><i>Python öğrenme sürecimde yazdığım kodlar, alıştırmalar ve projeler.</i></p>
