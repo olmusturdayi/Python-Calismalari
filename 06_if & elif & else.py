@@ -85,7 +85,7 @@ if h == k:
 else:
     print("h != k")
 
-if h is k: # is bağlacı == aksine, hafızada değerlerin eşit mi değil mi olduklarını sorgular.
+if h is k: # is bağlacı == aksine, "hafızada" değerlerin eşit mi olduklarını sorgular.
     print("h = k")
 else:
     print("h != k")
