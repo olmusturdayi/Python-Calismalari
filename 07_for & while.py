@@ -73,18 +73,18 @@ while x < 20: # x 20'den küçük olduğu sürece:
 print("----------------------------------------------------------")
 
 i = 1
-while True:
-    print(i)
-    i += 1
-    if i == 100:
-        break
+while True: # Sonsuz döngü oluşturduk. True olduğu sürece döngü devam eder.
+    print(i) # i'yi yazdır.
+    i += 1 # i'yi 1 arttır.
+    if i == 100: # i 100'e eşit olduğunda:
+        break # döngüyü durdur. Bu şekilde 1 den 100'e kadar sayıları yazdırdık.
 print("----------------------------------------------------------")
 
-while True:
-    if i % 2 == 0:
-        i += 1
-        continue
-    print(i)
-    i += 1
-    if i == 1000:
-        break
+while True: # Sonsuz döngü oluşturduk. True olduğu sürece döngü devam eder.
+    if i % 2 == 0: # Eğer sayımızın 2 ile bölümünden kalan 0 ise:
+        i += 1 # i'yi 1 arttır
+        continue # ve o sayıyı atla.
+    print(i) # i'yi yazdır.
+    i += 1 # i'yi 1 arttır.
+    if i == 1000: # i 1000'e eşit olduğunda:
+        break # döngüyü durdur. Bu şekilde 1 den 1000'e kadar tek sayıları yazdırdık.
